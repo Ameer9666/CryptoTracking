@@ -28,7 +28,6 @@ This project provides a real-time dashboard for cryptocurrency prices. It consis
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 - **API**: Axios for making API calls
-- **Deployment**: Vercel
 
 ## Getting Started
 
